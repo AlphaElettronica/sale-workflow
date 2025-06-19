@@ -35,5 +35,5 @@
         "views/res_partner_view.xml",
         "data/default_type.xml",
     ],
-    'installable': True,
+    'installable': False,
 }
